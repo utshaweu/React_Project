@@ -4,6 +4,7 @@ import {Col, Container, Row} from "react-bootstrap";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faEnvelope, faPhone} from "@fortawesome/free-solid-svg-icons";
 import {faFacebook,faYoutube} from "@fortawesome/free-brands-svg-icons";
+import {Link} from "react-router-dom";
 
 
 
@@ -35,7 +36,7 @@ class Footer extends Component {
 
                         <Col lg={3} md={6} sm={12} className="p-5 text-justify">
                             <h2 className="serviceName">Legal</h2>
-                            <a className="footerLink" href="#">Refund Policy</a><br/>
+                            <Link className="footerLink" to="/refund">Refund Policy</Link><br/>
                             <a className="footerLink" href="#">Terms And Condition</a><br/>
                             <a className="footerLink" href="#">Privacy Policy</a>
                         </Col>

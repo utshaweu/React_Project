@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/React_Project/static/css/main.4e6ea44a.chunk.css",
+    "main.js": "/React_Project/static/js/main.a1fe252b.chunk.js",
+    "main.js.map": "/React_Project/static/js/main.a1fe252b.chunk.js.map",
+    "runtime-main.js": "/React_Project/static/js/runtime-main.de68dd86.js",
+    "runtime-main.js.map": "/React_Project/static/js/runtime-main.de68dd86.js.map",
+    "static/css/2.b10d14ab.chunk.css": "/React_Project/static/css/2.b10d14ab.chunk.css",
+    "static/js/2.ef1f7e12.chunk.js": "/React_Project/static/js/2.ef1f7e12.chunk.js",
+    "static/js/2.ef1f7e12.chunk.js.map": "/React_Project/static/js/2.ef1f7e12.chunk.js.map",
+    "index.html": "/React_Project/index.html",
+    "precache-manifest.a0a593d712149c7045fd1b275bf0668f.js": "/React_Project/precache-manifest.a0a593d712149c7045fd1b275bf0668f.js",
+    "service-worker.js": "/React_Project/service-worker.js",
+    "static/css/2.b10d14ab.chunk.css.map": "/React_Project/static/css/2.b10d14ab.chunk.css.map",
+    "static/css/main.4e6ea44a.chunk.css.map": "/React_Project/static/css/main.4e6ea44a.chunk.css.map",
+    "static/media/custom.css": "/React_Project/static/media/banner.06ba74aa.jpg",
+    "static/media/courses.jpg": "/React_Project/static/media/courses.c741cce5.jpg",
+    "static/media/editor.svg": "/React_Project/static/media/editor.e017773c.svg",
+    "static/media/recent-projects.jpg": "/React_Project/static/media/recent-projects.f0ceb48d.jpg",
+    "static/media/responsive.svg": "/React_Project/static/media/responsive.3372a01d.svg",
+    "static/media/slick-theme.css": "/React_Project/static/media/slick.f97e3bbf.svg",
+    "static/media/web.svg": "/React_Project/static/media/web.2fd33a31.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de68dd86.js",
+    "static/css/2.b10d14ab.chunk.css",
+    "static/js/2.ef1f7e12.chunk.js",
+    "static/css/main.4e6ea44a.chunk.css",
+    "static/js/main.a1fe252b.chunk.js"
+  ]
+}

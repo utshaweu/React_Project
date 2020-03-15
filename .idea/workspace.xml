@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9ae0b425-e8bc-4a74-b86a-a3210e282e45" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/router/AppRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/AppRoute.js" afterDir="false" />
     </list>
@@ -104,7 +102,8 @@
       <workItem from="1574197293178" duration="141000" />
       <workItem from="1576559168148" duration="1242000" />
       <workItem from="1580205590083" duration="2969000" />
-      <workItem from="1584134891279" duration="866000" />
+      <workItem from="1584134891279" duration="1782000" />
+      <workItem from="1584265796970" duration="1575000" />
     </task>
     <servers />
   </component>

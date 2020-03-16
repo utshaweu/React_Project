@@ -3,7 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="9ae0b425-e8bc-4a74-b86a-a3210e282e45" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AllCourses/AllCourses.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AllCourses/AllCourses.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AllProjects/AllProjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AllProjects/AllProjects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Courses/Courses.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Courses/Courses.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RecentProjects/RecentProjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RecentProjects/RecentProjects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TopNavigation/TopNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TopNavigation/TopNavigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AboutPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AboutPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ContactPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ContactPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CoursesPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CoursesPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/PortfolioPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PortfolioPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/RefundPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/RefundPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ServicePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ServicePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/TermsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/TermsPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/router/AppRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/AppRoute.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,6 +118,8 @@
       <workItem from="1580205590083" duration="2969000" />
       <workItem from="1584134891279" duration="1782000" />
       <workItem from="1584265796970" duration="1575000" />
+      <workItem from="1584352244015" duration="4232000" />
+      <workItem from="1584390630697" duration="6405000" />
     </task>
     <servers />
   </component>

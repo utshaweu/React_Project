@@ -2,6 +2,7 @@ import React, {Component,Fragment} from 'react';
 import "../../assets/css/custom.css";
 import {Col, Container, Row} from "react-bootstrap";
 import coursesLogo from "../../assets/image/courses.jpg";
+import {Link} from "react-router-dom";
 
 class Courses extends Component {
     render() {
@@ -18,7 +19,7 @@ class Courses extends Component {
                                 <Col lg={6} md={6} sm={12}>
                                     <h5 className="text-justify courseTitle">Web Development</h5>
                                     <p className="text-justify courseDes">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus nobis rem sed?</p>
-                                    <a className="courseDetails float-left" href="#">Details</a>
+                                    <Link className="courseDetails float-left" to="/courseDetails">Details</Link>
                                 </Col>
                             </Row>
                         </Col>
@@ -30,7 +31,7 @@ class Courses extends Component {
                                 <Col lg={6} md={6} sm={12}>
                                     <h5 className="text-justify courseTitle">Web Development</h5>
                                     <p className="text-justify courseDes">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus nobis rem sed?</p>
-                                    <a className="courseDetails float-left" href="#">Details</a>
+                                    <Link className="courseDetails float-left" to="/courseDetails">Details</Link>
                                 </Col>
                             </Row>
                         </Col>
@@ -43,7 +44,7 @@ class Courses extends Component {
                                 <Col lg={6} md={6} sm={12}>
                                     <h5 className="text-justify courseTitle">Web Development</h5>
                                     <p className="text-justify courseDes">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus nobis rem sed?</p>
-                                    <a className="courseDetails float-left" href="#">Details</a>
+                                    <Link className="courseDetails float-left" to="/courseDetails">Details</Link>
                                 </Col>
                             </Row>
                         </Col>
@@ -55,7 +56,7 @@ class Courses extends Component {
                                 <Col lg={6} md={6} sm={12}>
                                     <h5 className="text-justify courseTitle">Web Development</h5>
                                     <p className="text-justify courseDes">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus nobis rem sed?</p>
-                                    <a className="courseDetails float-left" href="#">Details</a>
+                                    <Link className="courseDetails float-left" to="/courseDetails">Details</Link>
                                 </Col>
                             </Row>
                         </Col>

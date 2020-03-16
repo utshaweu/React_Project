@@ -2,6 +2,7 @@ import React, {Component,Fragment} from 'react';
 import '../../assets/css/custom.css';
 import {Button, Card, Col, Container, Row} from "react-bootstrap";
 import recentLogo from '../../assets/image/recent-projects.jpg';
+import {Link} from "react-router-dom";
 
 class RecentProjects extends Component {
     render() {
@@ -19,7 +20,7 @@ class RecentProjects extends Component {
                                         Some quick example text to build on the card title and make up the bulk of
                                         the card's content.
                                     </Card.Text>
-                                    <Button variant="primary">Details</Button>
+                                    <Button variant="primary"><Link className="link-style" to="/projectDetails">Details</Link></Button>
                                 </Card.Body>
                             </Card>
                         </Col>
@@ -32,7 +33,7 @@ class RecentProjects extends Component {
                                         Some quick example text to build on the card title and make up the bulk of
                                         the card's content.
                                     </Card.Text>
-                                    <Button variant="primary">Details</Button>
+                                    <Button variant="primary"><Link className="link-style" to="/projectDetails">Details</Link></Button>
                                 </Card.Body>
                             </Card>
                         </Col>
@@ -45,7 +46,7 @@ class RecentProjects extends Component {
                                         Some quick example text to build on the card title and make up the bulk of
                                         the card's content.
                                     </Card.Text>
-                                    <Button variant="primary">Details</Button>
+                                    <Button variant="primary"><Link className="link-style" to="/projectDetails">Details</Link></Button>
                                 </Card.Body>
                             </Card>
                         </Col>
